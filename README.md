@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on: **"World of Tourist Places"** and my movie platform project, **"CamFlix"**.
 - 🌱 I’m currently learning: **Advanced JavaScript, Tailwind CSS, and exploring iOS Development.**
 - ♟️ Hobbies: **Playing Chess** and customising desktop environments (Rainmeter/Linux ricing).
-- 📫 How to reach me: **sem.sila.1223@rupp.edu.kh**
+- 📫 How to reach me: **semsila.dev@gmail.com**
 
 <h3 align="left">💻 Languages and Tools I Actually Use:</h3>
 <p align="left">
