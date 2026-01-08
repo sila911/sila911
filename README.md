@@ -5,7 +5,7 @@
   I'm a passionate <strong>CS student</strong> based in Phnom Penh, currently diving deep into the world of web development and system customisation. I recently switched to <strong>Linux Mint</strong> to improve my workflow and technical understanding.
 </p>
 
-- 🔭 I’m currently working on: **"World of Tourist Places"** and my movie platform project, **"CamFlix"**.
+- 🔭 I’m currently working on: **"World of Tourist Places"** and movie platform project, **"CamFlix"**.
 - 🌱 I’m currently learning: **Advanced JavaScript, Tailwind CSS, and exploring iOS Development.**
 - ♟️ Hobbies: **Playing Chess** and customising desktop environments (Rainmeter/Linux ricing).
 - 📫 How to reach me: **semsila.dev@gmail.com**
