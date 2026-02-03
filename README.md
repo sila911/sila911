@@ -32,7 +32,7 @@
   <li><strong>Learnify:</strong> An e-learning platform landing page featuring responsive design, dark mode, and interactive course cards using Tailwind CSS.</li>
   <li><strong>CamFlix:</strong> A movie streaming website interface co-developed with a teammate. Built with HTML, Tailwind CSS, and <strong>JavaScript to fetch API data</strong> for displaying movie trailers.</li>
   <li><strong>World of Tourist Places:</strong> A travel guide website featuring modular JavaScript and responsive design.</li>
-  <li><strong>Linux Configuration:</strong> Customizing my Linux Mint environment and managing system setups.</li>
+  <li><strong>Linux Configuration:</strong> Customizing the Linux Mint environment and managing system setups.</li>
 </ul>
 
 <h3 align="center">Always learning, always coding. Let's connect!</h3>
