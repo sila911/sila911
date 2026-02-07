@@ -10,7 +10,7 @@
 - ♟️ Hobbies: **Playing Chess** and customising desktop environments (Rainmeter/Linux ricing).
 - 📫 How to reach me: **semsila.dev@gmail.com**
 
-<h3 align="left">💻 Languages and Tools I Actually Use:</h3>
+<h3 align="left">💻 Languages and Tools I Actually Use it:</h3>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" width="40" height="40"/></a>
