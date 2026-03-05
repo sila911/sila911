@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm SEM Sila</h1>
 <h3 align="center">Computer Science Student at RUPP | Front-End Developer | Linux Enthusiast 🐧</h3>
 
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sila911&theme=dark" alt="GitHub Streak" />
+</p>
+
 <p align="center">
   I'm a passionate <strong>CS student</strong> based in Phnom Penh, currently diving deep into the world of web development and system customisation. I recently switched to <strong>Linux Mint</strong> to improve my workflow and technical understanding.
 </p>
