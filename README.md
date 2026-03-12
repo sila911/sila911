@@ -12,7 +12,7 @@
 </p>
 
 - 🔭 I’m currently working on: **"Staffly"** (Employee Management System) and **"Learnify"**.
-- 🌱 I’m currently learning: **React.js, Vite, Javascript, and exploring iOS Development.**
+- 🌱 I’m currently learning: **React.js, Vite, JavaScript, and exploring iOS Development.**
 - ♟️ Hobbies: **Playing Chess** and customising desktop environments (Rainmeter/Linux ricing).
 - 📫 How to reach me: **semsila.dev@gmail.com**
 
@@ -37,7 +37,7 @@
 
 <h3 align="left">🚀 Projects I've Worked On:</h3>
 <ul>
-  <li><strong>Staffly:</strong> A modern employee management dashboard built with React and Vite. Features CRUD operations, search/filtering, and photo uploads.</li>
+  <li><strong>Staffly:</strong> A modern employee management dashboard built with React and Vite. Features include CRUD operations, search/filtering, and photo uploads.</li>
   <li><strong>Learnify:</strong> An e-learning platform landing page featuring responsive design, dark mode, and interactive course cards using Tailwind CSS.</li>
   <li><strong>CamFlix:</strong> A movie streaming website interface co-developed with a teammate. Built with HTML, Tailwind CSS, and <strong>JavaScript to fetch API data</strong> for displaying movie trailers.</li>
   <li><strong>World of Tourist Places:</strong> A travel guide website featuring modular JavaScript and responsive design.</li>
