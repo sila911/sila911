@@ -44,4 +44,4 @@
   <li><strong>Linux Configuration:</strong> Customizing the Linux Mint environment and managing system setups.</li>
 </ul>
 
-<h3 align="center">Always learning, always coding. Let's connect!</h3>
+<h3 align="center">Always learning, always coding. Let's connect! !</h3>
