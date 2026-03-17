@@ -1,47 +1,55 @@
-<h1 align="center">Hi 👋, I'm SEM Sila</h1>
-<h3 align="center">Computer Science Student at RUPP | Front-End Developer | Linux Enthusiast 🐧</h3>
+<div align="center">
 
+# 🕷️ SEM Sila 🕷️
 
+**Front-End Developer - Linux Enthusiast**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sila911&theme=dark" alt="GitHub Streak" />
-</p>
+<div align="left">
 
-<p align="center">
-  I'm a passionate <strong>CS student</strong> based in Phnom Penh, currently diving deep into the world of web development and system customisation. I recently switched to <strong>Linux Mint</strong> to improve my workflow and technical understanding.
-</p>
+➤ 🛠️ **Stack:** Building with React.js, Tailwind CSS, Vite, and PHP.<br/>
+➤ 🚀 **Current Focus:** Developing "SV Books" (PHP/MySQL) and learning ReactJS. <br/>
+➤ ♟️ **Pursuits:** Chess, Cube, & System Customization (Zorin OS).
 
-- 🔭 I’m currently working on: **"Staffly"** (Employee Management System) and **"Learnify"**.
-- 🌱 I’m currently learning: **React.js, Vite, JavaScript, and exploring iOS Development.**
-- ♟️ Hobbies: **Playing Chess** and customising desktop environments (Rainmeter/Linux ricing).
-- 📫 How to reach me: **semsila.dev@gmail.com**
+</div>
 
-<h3 align="left">💻 Languages and Tools I Actually Use it:</h3>
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" width="40" height="40"/></a>
-  
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="40" height="40"/>
+<br/>
+
+<img src="https://i.pinimg.com/originals/17/dc/db/17dcdb0b1a0e8d1976a4eb8890cd1a9f.gif" alt="Banner" width="100%">
+
+<br/>
+
+### 🚀 Main Skills 🚀
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,php,html,css,mysql,linux,git,github,c,cpp&perline=7" />
 </a>
 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
+<br/>
+
+### 🎯 Stats and Challenges 🎯
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sila911&theme=tokyonight" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sila911&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
-<h3 align="left">🚀 Projects I've Worked On:</h3>
-<ul>
-  <li><strong>Staffly:</strong> A modern employee management dashboard built with React and Vite. Features include CRUD operations, search/filtering, and photo uploads.</li>
-  <li><strong>Learnify:</strong> An e-learning platform landing page featuring responsive design, dark mode, and interactive course cards using Tailwind CSS.</li>
-  <li><strong>CamFlix:</strong> A movie streaming website interface co-developed with a teammate. Built with HTML, Tailwind CSS, and <strong>JavaScript to fetch API data</strong> for displaying movie trailers.</li>
-  <li><strong>World of Tourist Places:</strong> A travel guide website featuring modular JavaScript and responsive design.</li>
-  <li><strong>Linux Configuration:</strong> Customizing the Linux Mint environment and managing system setups.</li>
-</ul>
+<br/>
 
-<h3 align="center">Always learning, always coding. Let's connect! !</h3>
+<div align="left">
+
+### 💻 Projects
+
+- **SV Books:** A functional bookstore project built with PHP & MySQL.
+- **Staffly:** Modern employee management dashboard using React and Vite. Features CRUD operations and search/filtering.
+- **Learnify:** Responsive e-learning platform with dark mode and interactive course cards (Tailwind CSS).
+- **CamFlix:** Movie streaming interface co-developed with API fetching for trailers.
+
+</div>
+
+<br/>
+
+### Always learning, always coding. 📫 semsila.dev@gmail.com
+
+</div>
