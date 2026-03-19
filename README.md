@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🕷️ SEM Sila 🕷️
+# Hey, I'm SEM Sila 
 
 **Front-End Developer - Linux Enthusiast**
 
