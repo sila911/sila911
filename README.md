@@ -11,7 +11,7 @@
 
 ➤ 🛠️ **Stack:** Building with React.js, Tailwind CSS, Vite, and PHP.  
 ➤ 🚀 **Current Focus:** Developing **"SV Books"** (PHP/MySQL) and mastering React.  
-➤ ♟️ **Pursuits:** Chess, Speed-cubing, & System Customization (Zorin OS).
+➤ ♟️ **Pursuits:** Chess, Speed-cubing, & System Customization (Linux Zorin).
 
 </div>
 
