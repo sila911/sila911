@@ -41,7 +41,7 @@
 ### 💻 Projects
 
 * **SV Books:** A functional bookstore project built with PHP & MySQL.
-* **Staffly:** Modern employee management dashboard using React and Vite. Features CRUD operations and search/filtering.
+* **Staffly:** Modern employee management dashboard using React and Vite. Features CRUD(create, read, update and delete) operations and search/filtering.
 * **Learnify:** Responsive e-learning platform with dark mode and interactive course cards (Tailwind CSS).
 * **CamFlix:** Movie streaming interface co-developed with API fetching for trailers.
 
