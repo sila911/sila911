@@ -9,7 +9,7 @@
 
 <div align="left">
 
-➤ 🛠️ **Stack:** Building with React.js, Tailwind CSS, Vite, and PHP.  
+➤ 🛠️ **Stack:** Building with React.js, Tailwind CSS, Vite, and PHP/MySQL.  
 ➤ 🚀 **Current Focus:** Developing **"SV Books"** (PHP/MySQL) and mastering React.  
 ➤ ♟️ **Pursuits:** Chess, Speed-cubing, & System Customization (Linux Zorin).
 
