@@ -31,7 +31,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sila911&theme=tokyonight" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sila911&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
