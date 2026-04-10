@@ -48,6 +48,4 @@
 
 <br/>
 
-### Always coding. 📧 [semsila.dev@gmail.com](mailto:semsila.dev@gmail.com)
-
-</div>
+ 
