@@ -8,9 +8,9 @@
 </div>
 
 ### ⚡ Quick Intro
-- 🛠️ **Stack:** React.js, Tailwind CSS, Vite, PHP/MySQL
-- 🚀 **Focus:** Building **SV Books** & mastering modern React
-- ♟️ **AFK:** Chess, speed-cubing, running, and ricing my Fedora setup
+- 🛠️ **Stack:** React.js, Tailwind CSS, Vite and Typescript.
+- 🚀 **Focus:** Building **Portfolio web** & mastering Typescript.
+- ♟️ **AFK:** Chess, speed-cubing, running, and ricing my Fedora setup.
 
 ### 🛠️ Skills & Stats
 
