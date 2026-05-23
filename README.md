@@ -25,7 +25,7 @@
 </p>
 
 ### 💻 Projects
-*🌐 **View my live projects on my <a href="https://silasem.vercel.app/" target="_blank">Personal Portfolio</a>***
+*🌐 **View my live projects on my <a href="https://silasem.me/" target="_blank">Personal Portfolio</a>***
 
 - **SV Books:** Bookstore management application (PHP/MySQL) (Co-develop) &mdash; <a href="https://sv-books.byethost14.com/" target="_blank">Demo</a>
 - **Ask Sila Anything:** An anonymous question platform with secure Telegram delivery &mdash; <a href="https://ask-sila-anything.vercel.app/" target="_blank">Demo</a>
