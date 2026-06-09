@@ -8,8 +8,8 @@
 </div>
 
 ### ⚡ Quick Intro
-- 🛠️ **Stack:** React.js, Tailwind CSS, Vite and Typescript.
-- 🚀 **Focus:** Building **Portfolio web** & mastering Typescript.
+- 🛠️ **Stack:** React.js, Tailwind CSS, Vite, and TypeScript.
+- 🚀 **Focus:** Building **Portfolio web** & mastering TypeScript.
 - ♟️ **AFK:** Chess, speed-cubing, running, and ricing my Fedora setup.
 
 ### 🛠️ Skills & Stats
@@ -19,6 +19,12 @@
 | <img src="https://skillicons.dev/icons?i=react,tailwind,vite,js,ts,html,css&perline=4" /> | <img src="https://skillicons.dev/icons?i=php,mysql&perline=2" /> | <img src="https://skillicons.dev/icons?i=c,cpp,py&perline=3" /> | <img src="https://skillicons.dev/icons?i=linux,git,github,figma&perline=2" /> |
 
 <br>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://gh-trophy.cdnsoft.net/?username=sila911&theme=algolia&no-frame=true&no-bg=true&column=5" alt="Sila's Trophies" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sila911&theme=tokyonight" alt="GitHub Streak" height="150" />
