@@ -8,7 +8,7 @@
 </div>
 
 ### ⚡ Quick Intro
-- 🛠️ **Stack:** React.js, Tailwind CSS, Vite, and TypeScript.
+- 🛠️ **Stack:** React.js, Tailwind CSS, Vite, TypeScript, and Laravel.
 - 🚀 **Focus:** Building **Portfolio web** & mastering TypeScript.
 - ♟️ **AFK:** Chess, speed-cubing, running, and ricing my Fedora setup.
 
@@ -16,7 +16,7 @@
 
 | 🎨 Front-End | ⚙️ Back-End | 💻 Programming | 🔧 Tools |
 | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=react,tailwind,vite,js,ts,html,css&perline=4" /> | <img src="https://skillicons.dev/icons?i=php,mysql&perline=2" /> | <img src="https://skillicons.dev/icons?i=c,cpp,py&perline=3" /> | <img src="https://skillicons.dev/icons?i=linux,git,github,figma&perline=2" /> |
+| <img src="https://skillicons.dev/icons?i=react,tailwind,vite,js,ts,html,css&perline=4" /> | <img src="https://skillicons.dev/icons?i=php,mysql,laravel&perline=3" /> | <img src="https://skillicons.dev/icons?i=c,cpp,py&perline=3" /> | <img src="https://skillicons.dev/icons?i=linux,git,github,figma&perline=2" /> |
 
 <br>
 
