@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm SEM Sila 👋
+# Hey, I'm Sila SEM 👋
 **Front-End Developer & CS Student**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=header&text=Always%20Learning&fontSize=40&animation=fadeIn&fontAlignY=38&theme=tokyonight" alt="Banner" width="100%">
