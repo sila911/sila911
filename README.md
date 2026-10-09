@@ -1,11 +1,11 @@
 ﻿<div align="center">
 
 <!-- Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=180&section=header&text=Sila%20SEM&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Software%20Developer&descSize=18&descAlignY=58&descAlign=50&theme=tokyonight" alt="Sila SEM Banner" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=140&section=header&text=Sila%20SEM&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&theme=tokyonight" alt="Sila SEM Banner" width="100%">
 
-<p align="center">
-  <a href="https://wakatime.com/@6fa73df2-a15a-4bf9-9e30-165242109616"><img src="https://wakatime.com/badge/user/6fa73df2-a15a-4bf9-9e30-165242109616.svg" alt="wakatime" /></a>
-</p>
+<h3 align="center">
+  Junior Software Developer &nbsp;|&nbsp; <a href="https://wakatime.com/@6fa73df2-a15a-4bf9-9e30-165242109616"><img src="https://wakatime.com/badge/user/6fa73df2-a15a-4bf9-9e30-165242109616.svg" alt="wakatime" align="middle" /></a>
+</h3>
 
 </div>
 
@@ -58,9 +58,7 @@
       <img src="https://skillicons.dev/icons?i=ts,js,php,py,c,cpp&perline=3" alt="Programming Languages" />
     </td>
     <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=cloudflare,linux,git,github,githubactions,vscode&perline=3" alt="Tools & Cloud" />
-      <br/>
-      <img src="https://skillicons.dev/icons?i=figma,vercel" alt="Tools" /> <a href="https://apidog.com/" target="_blank" title="Apidog"><img src="assets/apidog.svg" width="48" height="48" alt="Apidog" /></a>
+      <img src="assets/tools.svg" alt="Tools & Cloud" />
     </td>
   </tr>
 </table>
