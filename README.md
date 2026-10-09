@@ -61,8 +61,7 @@
       <img src="https://skillicons.dev/icons?i=cloudflare,linux,git,github,githubactions,vscode,figma,vercel,postman&perline=3" alt="Tools & Cloud" />
       <br/>
       <a href="https://apidog.com/" target="_blank" title="Apidog">
-        <img src="https://svgl.app/library/apidog.svg" width="22" height="22" alt="Apidog" style="vertical-align: middle;" />
-        <img src="https://img.shields.io/badge/Apidog-5B60F6?style=for-the-badge&logoColor=white" height="22" alt="Apidog" style="vertical-align: middle;" />
+        <img src="assets/apidog.svg" width="48" height="48" alt="Apidog" />
       </a>
     </td>
   </tr>
