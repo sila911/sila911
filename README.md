@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=140&section=header&text=Sila%20SEM&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&theme=tokyonight" alt="Sila SEM Banner" width="100%">
 
 <h3 align="center">
-  Junior Software Developer &nbsp;|&nbsp; <a href="https://wakatime.com/@6fa73df2-a15a-4bf9-9e30-165242109616"><img src="https://wakatime.com/badge/user/6fa73df2-a15a-4bf9-9e30-165242109616.svg" alt="wakatime" align="middle" /></a>
+  Junior Software Developer &nbsp;|&nbsp; <a href="https://wakatime.com/@6fa73df2-a15a-4bf9-9e30-165242109616"><img src="https://wakatime.com/badge/user/6fa73df2-a15a-4bf9-9e30-165242109616.svg" alt="wakatime" align="center" /></a>
 </h3>
 
 </div>
