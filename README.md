@@ -1,7 +1,7 @@
 ﻿<div align="center">
 
 <!-- Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=180&section=header&text=Sila%20SEM&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Software%20Developer%20%7C%20Phnom%20Penh%2C%20Cambodia&descSize=18&descAlignY=58&descAlign=50&theme=tokyonight" alt="Sila SEM Banner" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=180&section=header&text=Sila%20SEM&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Software%20Developer&descSize=18&descAlignY=58&descAlign=50&theme=tokyonight" alt="Sila SEM Banner" width="100%">
 
 <p align="center">
   <a href="https://wakatime.com/@6fa73df2-a15a-4bf9-9e30-165242109616"><img src="https://wakatime.com/badge/user/6fa73df2-a15a-4bf9-9e30-165242109616.svg" alt="wakatime" /></a>
@@ -11,7 +11,7 @@
 
 ---
 
-### 🍱 Bento Highlights
+### Highlights
 
 <table>
   <tr>
@@ -58,11 +58,9 @@
       <img src="https://skillicons.dev/icons?i=ts,js,php,py,c,cpp&perline=3" alt="Programming Languages" />
     </td>
     <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=cloudflare,linux,git,github,githubactions,vscode,figma,vercel,postman&perline=3" alt="Tools & Cloud" />
+      <img src="https://skillicons.dev/icons?i=cloudflare,linux,git,github,githubactions,vscode&perline=3" alt="Tools & Cloud" />
       <br/>
-      <a href="https://apidog.com/" target="_blank" title="Apidog">
-        <img src="assets/apidog.svg" width="48" height="48" alt="Apidog" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=figma,vercel" alt="Tools" /> <a href="https://apidog.com/" target="_blank" title="Apidog"><img src="assets/apidog.svg" width="48" height="48" alt="Apidog" /></a>
     </td>
   </tr>
 </table>
@@ -119,43 +117,43 @@
   </tr>
   <tr>
     <td><b>SudoKH</b></td>
-    <td>Sudoku game engine with procedural audio, off-thread solver & daily challenges.</td>
+    <td>Sudoku game play with someone real time, scranner to find sulution.</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite" height="24" alt="React, TS, Tailwind, Vite" /></td>
     <td align="center"><a href="https://sudokh.vercel.app/">🔗 Live</a></td>
   </tr>
   <tr>
     <td><b>CYC Bot</b></td>
-    <td>Telegram scam & malware sentinel powered by Cloudflare Workers & VirusTotal API.</td>
+    <td>Telegram scam & malware sentinel to protect users and scran link, files.</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=js,cloudflare,nodejs" height="24" alt="JS, Cloudflare, Node.js" /></td>
     <td align="center"><a href="https://t.me/cholakorbot">🤖 Bot</a></td>
   </tr>
   <tr>
     <td><b>Ask Sila Anything</b></td>
-    <td>Anonymous Q&A platform with real-time sync, story creator & Telegram alerts.</td>
+    <td>Anonymous Q&A platform with real-time sync, story creator.</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=react,ts,tailwind,supabase" height="24" alt="React, TS, Tailwind, Supabase" /></td>
     <td align="center"><a href="https://asksila.vercel.app/">🔗 Live</a></td>
   </tr>
   <tr>
     <td><b>KonPlay</b></td>
-    <td>Streaming & discovery platform with TMDB integration & mobile bottom sheets.</td>
+    <td>Streaming & discovery platform with TMDB integration</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite" height="24" alt="React, TS, Tailwind, Vite" /></td>
     <td align="center"><a href="https://konplay.vercel.app/">🔗 Live</a></td>
   </tr>
   <tr>
     <td><b>Cholakor</b></td>
-    <td>Full-stack community platform with member directories & digital card generator.</td>
+    <td>Community platform with member directories & digital card generator.</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,mongodb" height="24" alt="React, TS, Node, Express, MongoDB" /></td>
     <td align="center"><a href="https://cholakor.vercel.app/">🔗 Live</a></td>
   </tr>
   <tr>
     <td><b>CYC Downloader</b></td>
-    <td>Telegram media downloader bot with yt-dlp & 2GB direct delivery via GitHub Actions.</td>
+    <td>Telegram media downloader bot with </td>
     <td align="center"><img src="https://skillicons.dev/icons?i=js,cloudflare,githubactions" height="24" alt="JS, Cloudflare, GitHub Actions" /></td>
     <td align="center"><a href="https://t.me/cyc_downloader_bot">🤖 Bot</a></td>
   </tr>
   <tr>
     <td><b>HireTrack</b></td>
-    <td>Job application tracker dashboard with progress analytics & decoupled backend.</td>
+    <td>Job application tracker dashboard with progress analytics.</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=react,laravel,php,tailwind,vite" height="24" alt="React, Laravel, PHP, Tailwind, Vite" /></td>
     <td align="center"><a href="https://hire-tracking.vercel.app/">🔗 Live</a></td>
   </tr>
