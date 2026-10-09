@@ -1,7 +1,7 @@
 ﻿<div align="center">
 
 <!-- Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=180&section=header&text=Sila%20SEM&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%7C%20Computer%20Science%20Student&descSize=18&descAlignY=58&descAlign=50&theme=tokyonight" alt="Sila SEM Banner" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=180&section=header&text=Sila%20SEM&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Software%20Developer%20%7C%20Phnom%20Penh%2C%20Cambodia&descSize=18&descAlignY=58&descAlign=50&theme=tokyonight" alt="Sila SEM Banner" width="100%">
 
 <p align="center">
   <a href="https://silasem.me/"><img src="https://img.shields.io/badge/Portfolio-silasem.me-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
@@ -19,24 +19,22 @@
 
 <table>
   <tr>
-    <td width="60%" valign="top">
-      <h3>👨‍💻 About Me</h3>
-      <p>
-        I'm a passionate <b>Front-End Developer</b> & <b>Computer Science student</b> based in Phnom Penh, Cambodia 🇰🇭. I love crafting high-performance, aesthetically pleasing, and interactive web applications with modern ecosystems.
-      </p>
+    <td width="55%" valign="top">
+      <h3>👨‍💻 Junior Software Developer</h3>
       <ul>
-        <li>🚀 <b>Core Stack:</b> React 19, TypeScript, Vite, Tailwind CSS, & Laravel</li>
-        <li>🌱 <b>Currently Mastering:</b> Advanced TypeScript, full-stack micro-services, & UI micro-interactions</li>
-        <li>🟢 <b>Active Project:</b> <a href="https://asksila.vercel.app/"><b>Ask Sila</b></a> — Anonymous messaging delivered to Telegram</li>
+        <li>📍 <b>Location:</b> Phnom Penh, Cambodia 🇰🇭</li>
+        <li>🚀 <b>Stack:</b> React 19, TypeScript, Tailwind CSS, Vite, Laravel</li>
+        <li>🟢 <b>Status:</b> Building interactive web apps & mastering TypeScript</li>
+        <li>🌐 <b>Live:</b> <a href="https://asksila.vercel.app/">Ask Sila</a> & <a href="https://silasem.me/">Portfolio</a></li>
       </ul>
     </td>
-    <td width="40%" valign="top">
-      <h3>⚡ Beyond The Code</h3>
+    <td width="45%" valign="top">
+      <h3>⚡ AFK & Hobbies</h3>
       <ul>
-        <li>♟️ <b>Chess:</b> Strategy & tactics enthusiast (<a href="https://www.chess.com/member/siladev">@siladev</a>)</li>
-        <li>🧩 <b>Speedcubing:</b> 3D Rubik's & Pyraminx puzzle solver</li>
-        <li>🏃 <b>Habits:</b> Running, daily Duolingo streaks (<a href="https://www.duolingo.com/profile/sila.dev">@sila.dev</a>)</li>
-        <li>🐧 <b>Linux Rice:</b> Minimalist Fedora workstation setup</li>
+        <li>♟️ <b>Chess:</b> Rapid & Tactics (<a href="https://www.chess.com/member/siladev">@siladev</a>)</li>
+        <li>🧩 <b>Speedcubing:</b> 3D Rubik's & Pyraminx puzzles</li>
+        <li>🦉 <b>Habits:</b> Daily Duolingo streak (<a href="https://www.duolingo.com/profile/sila.dev">@sila.dev</a>)</li>
+        <li>🐧 <b>OS:</b> Fedora Linux workstation</li>
       </ul>
     </td>
   </tr>
@@ -44,41 +42,18 @@
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+### 🛠️ Tech Arsenal
 
-<table>
-  <tr>
-    <th width="25%" align="center">🎨 Front-End</th>
-    <th width="25%" align="center">⚙️ Back-End & DB</th>
-    <th width="25%" align="center">💻 Languages</th>
-    <th width="25%" align="center">🔧 Tools & DevOps</th>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite,html,css&perline=3" alt="Front-End Stack" />
-    </td>
-    <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=php,laravel,mysql,supabase&perline=2" alt="Back-End Stack" />
-    </td>
-    <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=ts,js,c,cpp,py&perline=3" alt="Languages" />
-    </td>
-    <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,figma,vercel&perline=3" alt="Tools" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite,html,css,php,laravel,mysql,supabase,c,cpp,py,linux,git,github,vscode,vercel&perline=10" alt="Tech Stack" />
+</div>
 
 ---
 
 ### 📜 CODE MANIFESTO
-> *“Tracking my development journey, consistency, and algorithmic discipline.”*
+> *“Tracking consistency, coding activity, and algorithmic discipline.”*
 
 <div align="center">
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=450&lines=Writing+clean%2C+maintainable+code;Building+fluid+interactive+interfaces;Showing+up+every+single+day." alt="Typing SVG" />
-  </p>
-
   <!-- GitHub Trophies Shelf -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://gh-trophy.cdnsoft.net/?username=sila911&theme=algolia&no-frame=true&no-bg=true&column=7&row=1" alt="Sila's GitHub Trophies" width="100%" />
@@ -87,7 +62,7 @@
 
 <br>
 
-<!-- Bento Grid: GitHub Stats & Habit Consistency -->
+<!-- Bento Grid: GitHub Stats, Streak, WakaTime & Duolingo -->
 <table>
   <tr>
     <td width="50%" align="center" valign="middle">
@@ -99,7 +74,7 @@
   </tr>
   <tr>
     <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sila911&theme=tokyonight&hide_border=true&title_color=f59e0b&icon_color=f59e0b&text_color=c0caf5&langs_count=6&layout=compact" alt="Top Languages" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sila911&theme=tokyonight&hide_border=true&title_color=f59e0b&icon_color=f59e0b&text_color=c0caf5" alt="WakaTime Stats" width="100%" />
     </td>
     <td width="50%" align="center" valign="middle">
       <a href="https://www.duolingo.com/profile/sila.dev" target="_blank">
@@ -115,56 +90,51 @@
 
 <table>
   <tr>
-    <th width="40%">Project</th>
-    <th width="40%">Description</th>
-    <th width="20%" align="center">Links</th>
+    <th width="45%">Project</th>
+    <th width="35%">Tech Stack</th>
+    <th width="20%" align="center">Demo</th>
   </tr>
   <tr>
-    <td><b>Ask Sila Anything</b></td>
-    <td>Anonymous question & feedback platform with direct Telegram bot integration.</td>
+    <td><b>Ask Sila Anything</b><br><sub>Anonymous Q&A with Telegram bot integration</sub></td>
+    <td><code>React</code> <code>Vite</code> <code>Telegram API</code></td>
     <td align="center"><a href="https://asksila.vercel.app/">🔗 Live Demo</a></td>
   </tr>
   <tr>
-    <td><b>SV Books</b></td>
-    <td>Full-stack bookstore management application built with PHP & MySQL.</td>
+    <td><b>SV Books</b><br><sub>Bookstore management system</sub></td>
+    <td><code>PHP</code> <code>MySQL</code> <code>Bootstrap</code></td>
     <td align="center"><a href="https://sv-books.byethost14.com/">🔗 Live Demo</a></td>
   </tr>
   <tr>
-    <td><b>Learnify</b></td>
-    <td>Modern, responsive e-learning platform landing page with dark theme.</td>
+    <td><b>Learnify</b><br><sub>E-learning platform landing page with dark mode</sub></td>
+    <td><code>React</code> <code>Tailwind CSS</code></td>
     <td align="center"><a href="https://learnify-sila.vercel.app/">🔗 Live Demo</a></td>
   </tr>
   <tr>
-    <td><b>CamFlix</b></td>
-    <td>Movie streaming UI exploring dynamic external API data and media grids.</td>
+    <td><b>CamFlix</b><br><sub>Movie streaming & discovery UI</sub></td>
+    <td><code>JavaScript</code> <code>REST API</code></td>
     <td align="center"><a href="https://preuniversity-gen05.github.io/imovie-platform/">🔗 Live Demo</a></td>
   </tr>
   <tr>
-    <td><b>HomMi</b></td>
-    <td>Collaborative web interface tailored for seamless community interaction.</td>
+    <td><b>HomMi</b><br><sub>Community collaboration platform</sub></td>
+    <td><code>React</code> <code>Vite</code> <code>CSS</code></td>
     <td align="center"><a href="https://group-1-theta.vercel.app/">🔗 Live Demo</a></td>
   </tr>
   <tr>
-    <td><b>Staffly</b></td>
-    <td>Clean staff & employee administration dashboard with intuitive data controls.</td>
+    <td><b>Staffly</b><br><sub>Employee management dashboard</sub></td>
+    <td><code>React</code> <code>Tailwind CSS</code></td>
     <td align="center"><a href="https://staffly-sila.vercel.app/">🔗 Live Demo</a></td>
-  </tr>
-  <tr>
-    <td><b>World of Tourist Places</b></td>
-    <td>Interactive travel destination guide with curated scenic locations.</td>
-    <td align="center"><a href="https://tourist-places-sila.vercel.app/">🔗 Live Demo</a></td>
   </tr>
 </table>
 
 <p align="center">
-  👉 <i>Explore more interactive features, 3D Rubik's cubes, chess, and developer terminal on my <b><a href="https://silasem.me/">Personal Portfolio</a></b>!</i>
+  👉 <i>Explore more interactive features, 3D Rubik's cube, chess AI, and developer terminal on <b><a href="https://silasem.me/">silasem.me</a></b>!</i>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=90&section=footer&theme=tokyonight" alt="Footer Wave" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=80&section=footer&theme=tokyonight" alt="Footer Wave" width="100%">
   <p align="center">
-    <i>"Crafting seamless digital experiences with clean code and continuous curiosity."</i>
+    <i>"Crafting seamless digital experiences with clean code."</i>
   </p>
 </div>
