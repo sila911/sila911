@@ -42,10 +42,10 @@
 
 <table>
   <tr>
-    <th width="25%" align="center">🎨 Front-End</th>
-    <th width="25%" align="center">⚙️ Back-End & DB</th>
-    <th width="25%" align="center">💻 Programming</th>
-    <th width="25%" align="center">🔧 Tools & Cloud</th>
+    <th width="25%" align="center">🎨 Front</th>
+    <th width="25%" align="center">⚙️ Back & DB</th>
+    <th width="25%" align="center">💻 Core</th>
+    <th width="25%" align="center">🔧 Tools</th>
   </tr>
   <tr>
     <td align="center" valign="top">
@@ -71,9 +71,7 @@
 
 <div align="center">
   <!-- GitHub Trophies Shelf -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://gh-trophy.cdnsoft.net/?username=sila911&theme=algolia&no-frame=true&no-bg=true&column=7&row=1" alt="Sila's GitHub Trophies" width="100%" />
-  </a>
+  
 </div>
 
 <br>
